@@ -1,0 +1,24 @@
+{
+  "capsule": "FHE-WAD18",
+  "files": {
+    "COGNITIVE_LEDGER.jsonl": "83149e2b30662090e1ea0f59e207bd821f832a09195139e6f622ff1d20d9ba09",
+    "CognitiveStateLedger.sol": "b8a92591fe842ea54bba1e6aa6b261800708b0b9f7223772548fe54dc8fdfae6",
+    "MEMORANDUM.md": "a8d1064d33bdf6495d06bdbea4c6d429808fdedf5bc6af1ebcbb02908e25d7e6",
+    "README.md": "c90e3750c277785d890295211b88c1ff6bf15e6d8f7dc669be0195d0dc0841d7",
+    "bfv_wad18.py": "81ef0040aa0aaf2d7dd98b42f4a7e2adcd417106f56a90678d1a8bbbbe849379",
+    "build_capsule.py": "8fcd4a4545947f67e47bcea827490d8fa3a4f9d5268989c781f765768072a407",
+    "fhe_wad18.py": "dc713e2f84a2c5d656ebb558e6d7d23624006fd16d6bbf51a210452a2abcaf68",
+    "mutation_oracle.py": "2d21b8983673f3601943c150cd1e3ceb66421d917eb6eb744c9d84ffded7e332",
+    "mutation_oracle2.py": "cc632ba895943a02c9252e6ecb589414a4b6ca67bff7ccfa14dd3619ab3b6251",
+    "mutation_oracle3.py": "8ae64572d0ed49e6d6db6921bc9920d12e086ad0c2d4e7796e454697d965877b",
+    "rlwe_wad18.py": "7fe541a61812ad73f721354e07189b031c3cce9b3c58883b187cd75aa9eb1833",
+    "test_bfv.py": "a52df2decbd1b7d3c111f68359c28a79382b749a635ade06bc9d8c537aa26a83",
+    "test_bfv64.py": "215d4c476c4f24b77faf4dd58bc4568e82b8efd286d702f29e568d8896215087",
+    "test_oracle.py": "04bdfef6fe54a31123201df073daf34e75381599e7dfacac2d7621c19b131fb0",
+    "test_rlwe.py": "8aa8c07693a760fa32d985da051c545ca180259c7dc81920851b9a6aef3179d0",
+    "test_threshold.py": "d25741bf7ddeb2c47b834a459ca9470e46e9f16158f24b73be873ab96bf147d9",
+    "threshold_bfv.py": "f5fbc8d1703279e55c9d0a48f3a6687a80261f71d925605bd7db3457e2f4d2aa",
+    "verify_capsule.py": "17fa7b28a8a1a82a5bfd1f7d2b555d49244487dafb0b1e223eaf4d8739b5dd47"
+  },
+  "revision": 5
+}
